@@ -4,7 +4,7 @@ export default {
   name: "titolo",
   data(){
     return{
-      title: "Hello World"
+      title: "La mia prima app con Vite!"
     }
   }
 }
